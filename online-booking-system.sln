@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking.Console", "Booking.Console\Booking.Console.csproj", "{18307275-8CFB-4CCC-BF6A-55BCE3982550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking.Core", "Booking.Core\Booking.Core.csproj", "{AAD38B4E-6D9A-45A9-B2FF-1EA8613C9C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking.Infrastructure", "Booking.Infrastructure\Booking.Infrastructure.csproj", "{346A7DB5-D1F1-4469-8781-8025F13CAFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18307275-8CFB-4CCC-BF6A-55BCE3982550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18307275-8CFB-4CCC-BF6A-55BCE3982550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18307275-8CFB-4CCC-BF6A-55BCE3982550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18307275-8CFB-4CCC-BF6A-55BCE3982550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD38B4E-6D9A-45A9-B2FF-1EA8613C9C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD38B4E-6D9A-45A9-B2FF-1EA8613C9C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD38B4E-6D9A-45A9-B2FF-1EA8613C9C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD38B4E-6D9A-45A9-B2FF-1EA8613C9C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346A7DB5-D1F1-4469-8781-8025F13CAFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346A7DB5-D1F1-4469-8781-8025F13CAFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346A7DB5-D1F1-4469-8781-8025F13CAFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346A7DB5-D1F1-4469-8781-8025F13CAFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
